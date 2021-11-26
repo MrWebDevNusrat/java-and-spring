@@ -1,6 +1,11 @@
-=>) Collections
-=>) CRUD
-=>) ROLE
-=>) PERMISSION
-=>) SECURITY
-=>) RESTFULL API
+ Collections
+ 
+ CRUD
+
+ROLE
+
+PERMISSION
+
+SECURITY
+
+RESTFULL API
